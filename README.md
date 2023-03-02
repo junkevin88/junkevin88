@@ -44,6 +44,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### 🔥 &nbsp; My Stats :
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=junkevin88&show_icons=true&theme=radical)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=junkevin88&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junkevin88&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
