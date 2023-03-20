@@ -55,6 +55,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ### ✍️ Blog Posts :
 
 - [Review Google Digital Marketing & E-Commerce Professional Certificate](https://medium.com/@junkevin/review-google-digital-marketing-e-commerce-professional-certificate-so-far-16d6dd15536a)
+- [Review Machinet: AI Tools for Unit Testing in Java and Kotlin](https://medium.com/@junkevin/review-machinet-ai-tools-for-unit-testing-in-java-and-kotlin-1590a40b662d?)
+
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
