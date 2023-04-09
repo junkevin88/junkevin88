@@ -56,7 +56,7 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - [Review Google Digital Marketing & E-Commerce Professional Certificate](https://medium.com/@junkevin/review-google-digital-marketing-e-commerce-professional-certificate-so-far-16d6dd15536a)
 - [Review Machinet: AI Tools for Unit Testing in Java and Kotlin](https://medium.com/@junkevin/review-machinet-ai-tools-for-unit-testing-in-java-and-kotlin-1590a40b662d?)
-- [Set Up Cloudinary as a Media Service in Your Spring Boot Project, It’s Free!] (https://junkevin.medium.com/set-up-cloudinary-as-a-media-service-in-your-spring-boot-project-its-free-a26542af4408?)
+- [Set Up Cloudinary as a Media Service in Your Spring Boot Project, It’s Free!](https://junkevin.medium.com/set-up-cloudinary-as-a-media-service-in-your-spring-boot-project-its-free-a26542af4408?)
 
 
 <!-- BLOG-POST-LIST:START -->
