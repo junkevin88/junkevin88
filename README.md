@@ -50,9 +50,6 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junkevin88&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Distribution Language](https://ionicabizau.github.io/github-profile-languages/api.html?junkevin88)]
-
 ---
 
 ### ✍️ Blog Posts :
