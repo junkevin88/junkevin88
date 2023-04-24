@@ -2,9 +2,6 @@
 <a href="https://www.linkedin.com/in/junkevin06"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=junkevin88&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 <h1 align="center">Ola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://64.media.tumblr.com/25662501f43e0f3fef87ee5faf5c6124/tumblr_mm6gj6oJze1qm4we9o1_500.gif" width="600" height="300"  /></p>
@@ -43,6 +40,8 @@ I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 
 ### 🔥 &nbsp; My Stats :
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=junkevin88&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=junkevin88&show_icons=true&theme=radical)
 
