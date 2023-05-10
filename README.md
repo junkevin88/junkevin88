@@ -1,7 +1,3 @@
-<p align="center">
-<a href="https://www.linkedin.com/in/junkevin06"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
-
 <h1 align="center">Ola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://64.media.tumblr.com/25662501f43e0f3fef87ee5faf5c6124/tumblr_mm6gj6oJze1qm4we9o1_500.gif" width="600" height="300"  /></p>
